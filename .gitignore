@@ -22,3 +22,5 @@
 
 # Visual Studio Tmp files
 *.suo
+
+Debug.win32/
